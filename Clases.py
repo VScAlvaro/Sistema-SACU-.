@@ -1,3 +1,3 @@
 class Aspirante:
     def __init__(self):
-        pass
+      ADJADAJDADADAJDJAJADJA  pass
