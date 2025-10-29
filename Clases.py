@@ -157,4 +157,4 @@ class SistemaAsignacionCupo:
 if __name__ == "__main__":
     sistema = SistemaAsignacionCupo()
     sistema.menu()
-1
+1 print jsjsjsjssjs
